@@ -1,3 +1,27 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #F9EBEA; /* Light Red */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            max-width: 100%;
+            overflow-x: hidden;
+        }
+        .container {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>RA Dump Services</h1>
+        <p>Welcome to RA Dump Services! We specialize in providing top-notch dump trailer solutions for all your hauling needs. Whether you're working on construction projects, landscaping, or any other heavy-duty tasks, our dump trailers are here to make your job easier.</p>
+        
+
+
+
 <style>
     body {
         background-color: #F9EBEA; /* Light Red */
@@ -37,3 +61,9 @@ Ready to experience the RA Dump Services difference? Get in touch with us today!
 Follow us on Instagram for updates and special offers!
 
 Let's tackle your hauling challenges together with RA Dump Services. Reach out to us and let's get started!
+
+
+
+     
+    </div>
+</body>
