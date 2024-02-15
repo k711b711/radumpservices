@@ -1,3 +1,5 @@
+<name>
+
 # RA Dump Services
 
 Welcome to RA Dump Services! We specialize in providing top-notch dump trailer solutions for all your hauling needs. Whether you're working on construction projects, landscaping, or any other heavy-duty tasks, our dump trailers are here to make your job easier.
@@ -31,3 +33,11 @@ Follow us on Instagram [@RADumpServices](https://www.instagram.com/RADumpService
 
 Let's tackle your hauling challenges together with RA Dump Services. Reach out to us and let's get started!
 
+
+<style> name{
+
+  color: rgb(18, 187, 80);
+  font-size: 30px;} </
+  
+  style>
+  
