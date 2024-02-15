@@ -5,7 +5,7 @@
     <style>
         body {
             background-color: #000; /* Black */
-            color: #ccc; /* Light Gray */
+            color: #ccc; /* Nephritis Green */
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -23,7 +23,7 @@
             color: #f1c40f; /* Sunflower Yellow */
         }
         a {
-            color: #f39c12; /* Orange */
+            color: #f39c12; /* Light Gray */
         } 
 </style>
 </head>
