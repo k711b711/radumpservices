@@ -1,4 +1,9 @@
-<name>
+<style>
+    body {
+        background-color: #F9EBEA; /* Light Red */
+        font-family: Arial, sans-serif;
+    }
+</style>
 
 # RA Dump Services
 
@@ -27,9 +32,8 @@ Ready to experience the RA Dump Services difference? Get in touch with us today!
 - **Phone:** 8438146757
 - **Email:** sales@radumpservices.com
 - **Website:** radumpservices.com
-- **Instagram:** @radumpservices
+- **Instagram:** [@RADumpServices](https://www.instagram.com/RADumpServices/)
 
-Follow us on Instagram [@RADumpServices](https://www.instagram.com/RADumpServices/) for updates and special offers!
+Follow us on Instagram for updates and special offers!
 
 Let's tackle your hauling challenges together with RA Dump Services. Reach out to us and let's get started!
-
