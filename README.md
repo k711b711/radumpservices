@@ -4,26 +4,25 @@
     <title>RA Dump Services</title>
     <style>
         body {
-            background-color: #000; /* Black */
-            color: #ccc; /* Nephritis Green */
+            background-color: #000;
+            color: #228b22;
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+            margin:.50;
+            padding: 2;
         }
         h1 {
-            color: #2ecc71; /* Emerald Green */
+            color: #2ecc71; 
         }
         h2 {
-            color: #27ae60; /* Nephritis Green */
-        }
+            color: #27ae60; 
         p {
-            color: #a9dfbf; /* Seafoam Green */
+            color: #a9dfbf; 
         }
         .contact-info {
-            color: #a9dfbf; /* Light Gray */
+            color: #bbf2c5; 
         }
         a {
-            color: #a9dfbf; /* Light Gray */
+            color: #bbf2c5;
         } 
 </style>
 </head>
