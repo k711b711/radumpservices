@@ -1,0 +1,31 @@
+
+body {
+    background-color: #000;
+    color: #9370db; /* MediumPurple */
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: #8a2be2; /* BlueViolet */;
+    font-size: 45px;
+}
+
+h2 {
+    color: #9932cc; /* DarkOrchid */;
+    font-size: 30px
+  
+}
+
+p {
+    color: #ba55d3; /* MediumOrchid */;
+    font-size: 30px;
+}
+
+.contact-info {
+    color: #dda0dd; /* Plum */
+}
+
+a {
+    color: #dda0dd; /* Plum */
+} 
